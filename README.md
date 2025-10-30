@@ -1,5 +1,10 @@
 Israel Supermarket Parsers: Clients to parser the data published by the supermarkets.
 =======================================
+```
+Open source fork of `https://github.com/OpenIsraeliSupermarkets/israeli-supermarket-parsers` from commit `cf46a6b524a673de971d2f9d8de5d49783d287af`
+```
+
+
 This is a parser for ALL the supermarket chains listed in the GOV.IL site.
 
 שקיפות מחירים (השוואת מחירים) - https://www.gov.il/he/departments/legalInfo/cpfta_prices_regulations
